@@ -1,0 +1,28 @@
+body {
+   background-color: #7FFF00;
+}
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 2px 2px white;
+
+}
+h1 {
+ color: #FF0000;
+ font-size: 200%;
+}
+h2 {
+  color: #8B0000;
+}
+.section {
+  background-color: #FFFF00;
+  color: #8B0000;
+  font-weight: bold;
+}
+.title {
+  text-transform: uppercase;
+}
+.title__addition {
+color: #006400;
+
+}
