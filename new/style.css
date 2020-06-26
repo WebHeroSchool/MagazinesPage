@@ -1,0 +1,10 @@
+body {
+   font-family: 'literata', serif;
+}
+.title {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+p {
+  text-indent : 2em;
+    }
